@@ -5,6 +5,7 @@ I didn't know you could add a README to your Github profile until I stumbled acr
 -->
 
 Résumé: [https://jasonjames.design/](jasonjames.design)
+
 Portfolio: [https://jasonjames.works/](jasonjames.works)
 
 <!--
