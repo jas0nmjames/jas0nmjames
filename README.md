@@ -4,9 +4,9 @@
 I didn't know you could add a README to your Github profile until I stumbled across https://github.com/derekkedziora/derekkedziora on 2021-02-09. Thanks!
 -->
 
-- [https://jasonjames.design/](jasonjames.design) (résumé)
-- [https://jasonjames.works/](jasonjames.works) (portfolio)
-- [www.linkedin.com/in/jasonjamesworks](LinkedIn)
+- [jasonjames.design](https://jasonjames.design/) (résumé)
+- [jasonjames.works](https://jasonjames.works/) (portfolio)
+- [LinkedIn](https://www.linkedin.com/in/jasonjamesworks/)
 
 <!--
 **jas0nmjames/jas0nmjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
